@@ -1,4 +1,4 @@
 language: cpp
-OS: Windows
+OS: OSX
 script:
  - cmake ./
