@@ -1,4 +1,5 @@
 language: cpp
+
 OS: MacOS
 script:
   -cmake./
